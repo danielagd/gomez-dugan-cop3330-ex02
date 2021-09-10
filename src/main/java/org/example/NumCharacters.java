@@ -9,6 +9,7 @@ public class NumCharacters
 {
     public static void main( String[] args )
     {
+        // Asks user for a string and prints the amount of characters in string
         Scanner input = new Scanner(System.in);
 
         System.out.print("What is the input string? ");
